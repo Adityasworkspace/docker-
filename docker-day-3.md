@@ -52,3 +52,5 @@ http://<public-ip>:5000/
 > ✅ `-p` = port mapping (host-port\:container-port)
 > 
 > ✅ Make sure the host port is allowed in EC2 security group inbound rules
+>
+> 
